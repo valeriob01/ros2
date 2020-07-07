@@ -403,10 +403,6 @@ repositories:
     type: git
     url: https://github.com/ros-perception/image_common
     version: ros2
-  ros-perception/perception_pcl:
-    type: git
-    url: https://github.com/ros-perception/perception_pcl
-    version: foxy-devel
   ros-perception/vision_opencv:
     type: git
     url: https://github.com/ros-perception/vision_opencv
