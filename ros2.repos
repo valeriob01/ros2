@@ -379,3 +379,43 @@ repositories:
     type: git
     url: https://github.com/ros2/yaml_cpp_vendor.git
     version: master
+  ros2/teleop_twist_joy:
+    type: git
+    url: https://github.com/ros2/teleop_twist_joy
+    version: dashing
+  ros2/teleop_twist_keyboard:
+    type: git
+    url: https://github.com/ros2/teleop_twist_keyboard
+    version: dashing
+  ros/angles:
+    type: git
+    url: https://github.com/ros/angles
+    version: ros2
+  ros-drivers/joystick_drivers:
+    type: git
+    url: https://github.com/ros-drivers/joystick_drivers
+    version: ros2
+  ros-perception/depthimage_to_laserscan:
+    type: git
+    url: https://github.com/ros-perception/depthimage_to_laserscan
+    version: ros2
+  ros-perception/image_common:
+    type: git
+    url: https://github.com/ros-perception/image_common
+    version: ros2
+  ros-perception/perception_pcl:
+    type: git
+    url: https://github.com/ros-perception/perception_pcl
+    version: foxy-devel
+  ros-perception/vision_opencv:
+    type: git
+    url: https://github.com/ros-perception/vision_opencv
+    version: ros2
+  ros-visualization/rqt_common_plugins:
+    type: git
+    url: https://github.com/ros-visualization/rqt_common_plugins
+    version: dashing-devel
+  ros-visualization/rqt_image_view:
+    type: git
+    url: https://github.com/ros-visualization/rqt_image_view
+    version: foxy-devel
